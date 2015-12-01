@@ -1,8 +1,0 @@
-import assert from 'assert';
-import sidikhalifa from '../lib';
-
-describe('sidi-khalifa', function () {
-  it('should have a version number!', function () {
-    assert(typeof sidiKhalifa.VERSION !== 'undefined', 'The Project should have a VERSION, whatever the actual version.');
-  });
-});
